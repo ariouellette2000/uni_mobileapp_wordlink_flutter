@@ -10,14 +10,16 @@ WordLink is an engaging word game built with Flutter, designed to challenge user
 
 ## Installation
 To set up WordLink on your local machine, follow these steps:
-### 1. Download the Project ZIP:
-### 2. Extract the zip file:
-Locate the downloaded file and extract it using your preferred file extraction tool.
-### 3. Install dependencies:
+### 1. Clone the repository
+```
+git clone https://github.com/yourusername/wordlink.git
+cd wordlink
+```
+### 2. Install dependencies:
 ```
 flutter pub get
 ```
-### 4. Run the app:
+### 3. Run the app:
 ```
 flutter run
 ```
