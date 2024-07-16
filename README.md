@@ -32,4 +32,14 @@ Switch Languages and Dictionary: Access settings from the main menu to change th
 Dictionary file txt french : http://www.3zsoftware.com/fr/listes.php
 Dictionary file txt english : http://www.gwicks.net/dictionaries.htm  
 
+# Result
+Rapport de progression : https://docs.google.com/document/d/1wwgPlrY1mjBgZngd7AoxmuKtXf8gFyLKvxVfZhzR96Y/edit?usp=sharing
+
+![image](https://github.com/user-attachments/assets/62c09376-f111-4c41-a1b6-2915a116a42f)
+![image](https://github.com/user-attachments/assets/ea4e3c58-dd7f-412d-bf2d-093f8d4a65eb)
+![image](https://github.com/user-attachments/assets/9cf8c842-fbfc-4acc-b7d4-5de851aa6b8d)
+![image](https://github.com/user-attachments/assets/4e3148e9-9462-4a65-98e3-b885bd642315)
+
+
+
 Author: Ariane Ouellette
